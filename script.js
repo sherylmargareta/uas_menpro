@@ -18,3 +18,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+
+// Log another message to the console
+console.log('Script loaded successfully!');
